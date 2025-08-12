@@ -8,7 +8,7 @@ Este repositório reúne links para protótipos desenvolvidos no **Figma**, com 
 
 ### 1. 🧠 Monemotion — Monitorador de Emoções
 <p align="center">
-  <img src="imagens/monemotion.png" alt="Prévia do Monemotion" width="200">
+  <img src="imagens/monemotion.png" alt="Prévia do Monemotion" width="400">
 </p>
 
 - **Descrição:** Protótipo de um site para monitoramento e registro de emoções ao longo do tempo.  
@@ -20,7 +20,7 @@ Este repositório reúne links para protótipos desenvolvidos no **Figma**, com 
 
 ### 2. 🗺️ RecOMap — O Mapa para o Seu Desempenho Acadêmico
 <p align="center">
-  <img src="imagens/recomap.png" alt="Prévia do RecOMap" width="200">
+  <img src="imagens/recomap.png" alt="Prévia do RecOMap" width="400">
 </p>
 
 - **Descrição:** Protótipo de um aplicativo voltado para acompanhar e mapear o desempenho acadêmico de estudantes.  
