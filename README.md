@@ -7,7 +7,10 @@ Este repositório reúne links para protótipos desenvolvidos no **Figma**, com 
 ## 📌 Projetos
 
 ### 1. 🧠 Monemotion — Monitorador de Emoções
-![Prévia do Monemotion](imagens/monemotion.png)  
+<p align="center">
+  <img src="imagens/monemotion.png" alt="Prévia do Monemotion" width="600">
+</p>
+
 - **Descrição:** Protótipo de um site para monitoramento e registro de emoções ao longo do tempo.  
 - **Origem:** Desenvolvido como parte do Trabalho de Conclusão de Curso (TCC) no IFRN.  
 - **Ferramenta:** Figma  
@@ -16,7 +19,10 @@ Este repositório reúne links para protótipos desenvolvidos no **Figma**, com 
 ---
 
 ### 2. 🗺️ RecOMap — O Mapa para o Seu Desempenho Acadêmico
-![Prévia do RecOMap](imagens/recomap.png)  
+<p align="center">
+  <img src="imagens/recomap.png" alt="Prévia do RecOMap" width="600">
+</p>
+
 - **Descrição:** Protótipo de um aplicativo voltado para acompanhar e mapear o desempenho acadêmico de estudantes.  
 - **Ferramenta:** Figma  
 - **Link:** [Acessar protótipo no Figma](https://www.figma.com/design/j5JIIjAJ3yDtEG43cDjm6Q/RecOMap?node-id=0-1&p=f&t=NqTikGNTQbbTrMWn-0)
